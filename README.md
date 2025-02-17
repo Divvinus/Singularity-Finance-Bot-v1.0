@@ -1,0 +1,1 @@
+# Singularity-Finance-Bot-v1.0
